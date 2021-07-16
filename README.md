@@ -4,4 +4,5 @@ This repository is for `Reinforcemnt learning` course by `Alberta University` on
 
 These are the project titles:
 
-* Sequential Decision-Making
+* Course 1 : Fundamentals of Reinforcement Learning
+	* Bandits and ExplorationExploitation
