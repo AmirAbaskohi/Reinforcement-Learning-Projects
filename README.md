@@ -6,3 +6,6 @@ These are the project titles:
 
 * Course 1 : Fundamentals of Reinforcement Learning
 	* Bandits and ExplorationExploitation
+	* Optimal Policies with Dynamic Programming
+* Course 2: Sample Based Learning Methods
+	* Policy Evaluation in Cliff Walking Environment
