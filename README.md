@@ -9,3 +9,5 @@ These are the project titles:
 	* Optimal Policies with Dynamic Programming
 * Course 2: Sample Based Learning Methods
 	* Policy Evaluation in Cliff Walking Environment
+	* Q-Learning and Expected Sarsa
+	* Dyna-Q and Dyna-Q+
